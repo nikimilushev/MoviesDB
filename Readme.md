@@ -1,3 +1,5 @@
+See .NET Task MoviesDB.docx file for full specs.
+
 Very simple movie library app
 
 The file scripts/InitDatabase.sql should be used to create the database

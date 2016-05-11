@@ -3,3 +3,10 @@
 ################################################################################
 
 /MoviesDB.DB/obj/Debug
+/MoviesDB.Model/bin/Debug
+/MoviesDB.Model/obj/Debug
+/MoviesDB.Test/obj/Debug
+/MoviesDB.UI/bin
+/MoviesDB.UI/obj/Debug
+/.vs/MoviesDB.UI/v14/.suo
+/.vs/config
